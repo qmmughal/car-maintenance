@@ -1,0 +1,88 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+
+# Visual Studio Code
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+
+# MAUI-specific
+*.app
+*.ipa
+*.apk
+bin/
+obj/
+.DS_Store
+
+# Gradle
+.gradle/
+gradle-app.setting
+gradlew
+gradlew.bat
+
+# Android
+local.properties
+*.jks
+*.keystore
+
+# iOS
+Pods/
+Podfile.lock
+*.xcworkspace
+*.xcodeproj/xcuserdata/
+
+# Visual Studio for Mac
+.vs/
+*.userprefs
+
+# Resharper
+_ReSharper*/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Coverage reports
+coverage/
+*.coverage
+
+# Test results
+TestResults/
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# OS-specific
+Thumbs.db
+.DS_Store
+.env
+.env.local
