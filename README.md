@@ -1,5 +1,26 @@
 # Car Maintenance Tracker (.NET MAUI)
 
+---
+
+<div style="display: flex; align-items: center; gap: 12px; padding: 16px; border: 1px solid #e5e7eb; border-radius: 8px; background: #f9fafb; margin-bottom: 24px;">
+  <div>
+    <div style="font-size: 16px; font-weight: 600; color: #1f2937;">
+      <a href="https://github.com/qmmughal/car-maintenance" style="color: #2563eb; text-decoration: none;">qmmughal/car-maintenance</a>
+      <span style="display: inline-block; margin-left: 8px; padding: 2px 8px; background: #e5e7eb; color: #374151; border-radius: 12px; font-size: 12px; font-weight: 500;">Public</span>
+    </div>
+    <div style="color: #6b7280; font-size: 14px; margin-top: 4px;">Cross-platform mobile app for car maintenance tracking</div>
+    <div style="margin-top: 8px; display: flex; align-items: center; gap: 16px;">
+      <span style="display: flex; align-items: center; gap: 6px; color: #6b7280; font-size: 13px;">
+        <span style="width: 12px; height: 12px; background: #10b981; border-radius: 50%; display: inline-block;"></span>
+        C#
+      </span>
+      <span style="color: #6b7280; font-size: 13px;">Updated on May 16, 2026</span>
+    </div>
+  </div>
+</div>
+
+---
+
 A cross-platform mobile app built with .NET MAUI for iPhone and Android to efficiently manage car maintenance activities, track oil changes, and monitor service schedules.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
