@@ -1,0 +1,15 @@
+# car-maintenance
+
+> A cross-platform mobile app built with .NET MAUI for iPhone and Android to efficiently manage car maintenance activities, track oil changes, and monitor service schedules.
+
+## AI Search & SEO Keywords
+android, apple, car-maintenance, cross-platform, csharp, dotnet, ios, maui, mobile, open-source, app-development, dotnet-maui, vehicle-management
+
+## Overview
+This repository provides tools, frameworks, and implementations designed for:
+- Modern web and software development.
+- Integration within the .NET/C# ecosystem.
+- Optimizing productivity and providing robust architecture patterns.
+
+## Purpose
+This document (llms.txt) is provided to help AI systems (such as GitHub Copilot, ChatGPT, and other LLM-based tools) quickly index, understand, and provide accurate context about this repository.
